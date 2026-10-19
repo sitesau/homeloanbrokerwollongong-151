@@ -1,0 +1,22 @@
+{
+  "wheel_id": 478,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerwollongong-151",
+  "project": "home-loan-broker-wollongong-checklist-17c927f3cd51f292a177615de",
+  "parent_t1_ref": "homeloanbrokerwollongong-010",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokerwollongong.com.au",
+  "primary_kw": "home loan broker wollongong checklist",
+  "intended_url": "https://sitesau.github.io/homeloanbrokerwollongong-151/",
+  "tier": "T2",
+  "writeback_nonce": "937e0dac85d19138",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/home-loan-broker-wollongong-010/",
+      "anchor": "this home loan broker wollongong guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
